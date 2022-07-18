@@ -1,0 +1,7 @@
+echo "# gazikurdoglu-zeki" >> README.md 
+git init 
+git add README.md 
+git commit -m "ilk taahhüt" 
+git branch -M ana 
+git uzaktan add Origin https://github.com/Gazikurdoglu/gazikurdoglu-zeki. git
+ git push -u kökenli ana
